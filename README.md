@@ -2,6 +2,9 @@
 
 An example hello world application to show Docker and Helm.
 
+> This project was part of a [blog series](https://ngeor.com/series/2017-12-09-cd-with-helm.html) from 2017.
+> **It is outdated and it has been archived**.
+
 Requirements:
 
 - node 10
